@@ -18,13 +18,13 @@ namespace TeamProject
         int jumpSpeed = 12;
         int jumpLimit = 12;
         int score = 0;
-        int obstacleSpeed = 10;
+        int obstacleSpeed = 15;
         Random random = new Random();
         int position;
         bool isGameOver = false;
-        //SoundPlayer jumpSound = new SoundPlayer(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\jump.wav");
-        //SoundPlayer pointSound = new SoundPlayer(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\point.wav");
-        //SoundPlayer dieSound = new SoundPlayer(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\die.wav");
+        SoundPlayer jumpSound = new SoundPlayer(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\jump.wav");
+        SoundPlayer pointSound = new SoundPlayer(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\point.wav");
+        SoundPlayer dieSound = new SoundPlayer(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\die.wav");
 
         public tRexGameForm()
         {
@@ -34,10 +34,10 @@ namespace TeamProject
 
         private void gameTimerEvent(object sender, EventArgs e)
         {
-            var pointSound = new System.Windows.Media.MediaPlayer();
-            pointSound.Open(new System.Uri(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\point.wav"));
-            var dieSound = new System.Windows.Media.MediaPlayer();
-            dieSound.Open(new System.Uri(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\die.wav"));
+            //var pointSound = new System.Windows.Media.MediaPlayer();
+            //pointSound.Open(new System.Uri(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\point.wav"));
+            //var dieSound = new System.Windows.Media.MediaPlayer();
+            //dieSound.Open(new System.Uri(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\die.wav"));
             
             tRexPictureBox.Top += jumpSpeed;
             scoreLabel.Text = "Score: " + score;
@@ -86,21 +86,21 @@ namespace TeamProject
                             $"Press X to close the game";
                         startLabel.Text = "Game Over";
                         isGameOver = true;
-                        dieSound.Play();
+                        dieSound.Play();                        
                     }
                 }
             }
-            if(score % 10 == 0)
+            if (score > 3)
             {
-                pointSound.Play();
-            }
-            if (score > 10)
-            {
-                obstacleSpeed = 15;
+                obstacleSpeed = 15;                               
             }
             if (score > 30)
             {
-                obstacleSpeed = 20;
+                obstacleSpeed = 20;               
+            }
+            if ( score > 50)
+            {
+                obstacleSpeed = 25;                
             }
         }
 
@@ -111,9 +111,8 @@ namespace TeamProject
 
             if(e.KeyCode == Keys.Space && isJumping == false)
             {
-                isJumping = true;
-                var jumpSound = new System.Windows.Media.MediaPlayer();
-                jumpSound.Open(new System.Uri(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\jump.wav"));
+                isJumping = true;                
+                jumpSound.Play();
             }
         }
 
