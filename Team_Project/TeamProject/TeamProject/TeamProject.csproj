@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationCore" />
     <Reference Include="RecordViewerForm">
       <HintPath>..\..\RecordViewerForm\RecordViewerForm\bin\Debug\RecordViewerForm.dll</HintPath>
     </Reference>
@@ -47,6 +48,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ScoreSaverForm.cs">

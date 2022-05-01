@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
 
 namespace TeamProject
 {
@@ -21,6 +22,9 @@ namespace TeamProject
         Random random = new Random();
         int position;
         bool isGameOver = false;
+        //SoundPlayer jumpSound = new SoundPlayer(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\jump.wav");
+        //SoundPlayer pointSound = new SoundPlayer(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\point.wav");
+        //SoundPlayer dieSound = new SoundPlayer(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\die.wav");
 
         public tRexGameForm()
         {
@@ -30,6 +34,11 @@ namespace TeamProject
 
         private void gameTimerEvent(object sender, EventArgs e)
         {
+            var pointSound = new System.Windows.Media.MediaPlayer();
+            pointSound.Open(new System.Uri(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\point.wav"));
+            var dieSound = new System.Windows.Media.MediaPlayer();
+            dieSound.Open(new System.Uri(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\die.wav"));
+            
             tRexPictureBox.Top += jumpSpeed;
             scoreLabel.Text = "Score: " + score;
             if (isJumping == true && jumpLimit < 0)
@@ -77,8 +86,13 @@ namespace TeamProject
                             $"Press X to close the game";
                         startLabel.Text = "Game Over";
                         isGameOver = true;
+                        dieSound.Play();
                     }
                 }
+            }
+            if(score % 10 == 0)
+            {
+                pointSound.Play();
             }
             if (score > 10)
             {
@@ -90,11 +104,16 @@ namespace TeamProject
             }
         }
 
+        
         private void keyIsDown(object sender, KeyEventArgs e)
         {
+
+
             if(e.KeyCode == Keys.Space && isJumping == false)
             {
                 isJumping = true;
+                var jumpSound = new System.Windows.Media.MediaPlayer();
+                jumpSound.Open(new System.Uri(@"C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Sounds\jump.wav"));
             }
         }
 
