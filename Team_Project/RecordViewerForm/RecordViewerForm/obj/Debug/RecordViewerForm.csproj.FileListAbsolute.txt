@@ -1,0 +1,20 @@
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\bin\Debug\RecordViewerForm.dll.config
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\bin\Debug\RecordViewerForm.dll
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\bin\Debug\RecordViewerForm.pdb
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.csproj.AssemblyReference.cache
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.recordViewerForm.resources
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.Properties.Resources.resources
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.csproj.GenerateResource.cache
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.dll
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.pdb
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\bin\Debug\RecordViewerForm.dll.config
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\bin\Debug\RecordViewerForm.dll
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\bin\Debug\RecordViewerForm.pdb
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.recordViewerForm.resources
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.Properties.Resources.resources
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.dll
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\RecordViewerForm\RecordViewerForm\obj\Debug\RecordViewerForm.pdb

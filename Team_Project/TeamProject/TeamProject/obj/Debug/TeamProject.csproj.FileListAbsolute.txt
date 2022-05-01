@@ -1,0 +1,34 @@
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.tRexGameForm.resources
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\bin\Debug\RecordViewerForm.dll
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\bin\Debug\RecordViewerForm.pdb
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\bin\Debug\RecordViewerForm.dll.config
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.ScoreSaverForm.resources
+C:\Users\CJ\Documents\Courses\App. Dev. (Desktop)\BalibalosCraigJustinLab06\TeamProject\TeamProject\obj\Debug\TeamProject.ScoreViewerForm.resources
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\bin\Debug\RecordViewerForm.dll
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\bin\Debug\RecordViewerForm.pdb
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\bin\Debug\RecordViewerForm.dll.config
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.ScoreSaverForm.resources
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.ScoreViewerForm.resources
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.tRexGameForm.resources
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\HP\Desktop\Semester3\AppDev\Team_Project\Team_Project\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
